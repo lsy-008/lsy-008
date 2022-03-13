@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lsy-008
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...physical
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...lsy080103@yeah.net
